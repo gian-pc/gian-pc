@@ -1,14 +1,11 @@
 # Hola, soy Gian Carlos 👋
-
 **Backend Developer | AI Integration Engineer**  
 Lima, Perú 🇵🇪 | [gianpc.com](https://gianpc.com) | [LinkedIn](https://linkedin.com/in/gian-pc)
 
 ---
 
 ## 🚀 Sobre mí
-
 Construyo APIs robustas y las conecto con modelos de IA para crear soluciones inteligentes en producción.
-
 Backend Developer especializado en integrar LLMs y agentes de IA en sistemas reales con Java, Spring Boot y FastAPI.
 
 ---
@@ -46,17 +43,20 @@ Finalista · Modelo de predicción de churn con Random Forest + asistente conver
 ### 📚 [Prompt Engineering Labs](https://github.com/gian-pc/prompt-engineering-course)
 7 laboratorios del curso ChatGPT Prompt Engineering for Developers — DeepLearning.AI + OpenAI (Andrew Ng).
 
+### 🧠 [RAG — DeepLearning.AI](https://github.com/gian-pc/rag-deeplearning-ai)
+Mis soluciones y notas del curso Retrieval Augmented Generation de DeepLearning.AI (Andrew Ng + Zain Hasan).
+Pipeline RAG completo con OpenAI, embeddings semánticos, búsqueda vectorial y dataset real de noticias BBC 2024.
+
 ---
 
 ## 📚 Actualmente aprendiendo
-
+- 🧠 **RAG (Retrieval Augmented Generation)** — DeepLearning.AI · OpenAI · Embeddings · Vector Search
 - 🔄 RAG + LangChain — Oracle ONE + Alura
 - ☁️ AWS Developer Associate
 
 ---
 
 ## 📬 Contacto
-
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:gpaucarcortez@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/gian-pc)
 [![Web](https://img.shields.io/badge/Web-gianpc.com-black?style=flat&logo=google-chrome&logoColor=white)](https://gianpc.com)

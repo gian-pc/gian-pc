@@ -9,7 +9,7 @@ Lima, Perú 🇵🇪 | [gianpc.com](https://gianpc.com) | [LinkedIn](https://lin
 
 Java Backend Developer con más de 5 años de experiencia construyendo APIs REST y microservicios con Java y Spring Boot, aplicando TDD, principios SOLID y arquitectura limpia.
 
-Trayectoria en sectores de minería, meteorología e infraestructura gestionando datos críticos en tiempo real. Tech Lead y finalista del **Hackathon ChurnInsight — Oracle ONE + Alura (2025)**, liderando un equipo de 8 personas en el diseño e implementación de una plataforma full-stack de predicción de churn.
+Trayectoria en sectores de minería, meteorología e infraestructura gestionando datos críticos. Tech Lead y finalista del **Hackathon ChurnInsight — Oracle ONE + Alura (2025)**, liderando un equipo de 8 personas en el diseño e implementación de una plataforma full-stack de predicción de churn.
 
 ---
 
